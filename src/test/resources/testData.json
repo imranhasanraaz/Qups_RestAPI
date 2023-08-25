@@ -1,0 +1,11 @@
+{
+  "validUserID" : "2",
+  "createUser" : {
+    "name": "morpheus",
+    "job": "leader"
+  },
+  "UpdateUser" : {
+    "name": "morpheus",
+    "job": "zion resident"
+  }
+}
